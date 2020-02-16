@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class Client {
 	public static void main(String[] args) {
+		//KK
 		Scanner sc = new Scanner(System.in);
         System.out.println("«Î ‰»Î–‘±£®man/woman/robot£©");
 		String sex = sc.nextLine();
